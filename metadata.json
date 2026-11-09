@@ -1,0 +1,6 @@
+{
+  "name": "VELOZONE – Premium Bicycle Store",
+  "description": "VELOZONE - RIDE • EXPLORE • LIVE. Premium bicycles, road racers, MTBs, e-bikes, helmets and cycling accessories in Georgia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
